@@ -40,10 +40,7 @@ server.cpp: Contains the server-side logic for handling clients and managing mes
 client.cpp: Contains the client-side code for connecting to the server and sending/receiving messages.
 users.txt: A text file storing registered usernames and passwords.
 message.txt: A text file for storing chat messages locally on the client side.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 Contact
 For any questions or suggestions, feel free to reach out:
-
-Email: your-email@example.com
+Email: tungpham02363758@gmail.com

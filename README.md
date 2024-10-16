@@ -1,5 +1,5 @@
 Socket Programming Server-Client Application
-Overview
+
 This project is a server-client application developed using C++ and socket programming. It allows multiple clients to connect to a server, register and log in, and communicate through direct (unicast) or broadcast messaging. The server manages the connected clients, tracks online users, and supports logging out.
 
 Features
@@ -20,14 +20,14 @@ Visual Studio or any C++ IDE that supports Windows development
 Git (for version control)
 Installation and Setup
 Clone the Repository:
-git clone https://github.com/your-username/your-repo-name.git
+git clone (https://github.com/Pham1234568/server-client.git).
 Open the Project in Visual Studio (or your preferred C++ IDE).
 Build the Solution: Ensure you have linked the ws2_32.lib library properly.
 Run the Server:
 Build and run the server.cpp file first to start the server.
 Run the Client:
 Open a new terminal or command prompt and run the client.cpp file to connect to the server.
-Usage
+Usage:
 Register: Enter your username and password to register.
 Login: Log in with your credentials.
 Send Messages:

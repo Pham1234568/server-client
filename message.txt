@@ -1,0 +1,15 @@
+
+User [tung] send message to ALL: hello everyone
+
+
+User [thanh] send message to YOU: chao dat
+
+
+User [tung] send message to YOU: 123
+
+
+User [khanh] send message to ALL: 123
+
+
+User [tung] send message to YOU: 123456
+

@@ -12,6 +12,7 @@ Logout Functionality: Users can log out, freeing up their connections for future
 Message Storage: Client-side message storage for chat history.
 Technology Stack
 Programming Language: C++
+
 Library: WinSock2 (Windows Sockets API) for socket programming
 Threading: C++ <thread> library for handling multiple clients
 Requirements
@@ -19,6 +20,7 @@ Windows OS
 Visual Studio or any C++ IDE that supports Windows development
 Git (for version control)
 Installation and Setup
+
 Clone the Repository:
 git clone (https://github.com/Pham1234568/server-client.git).
 Open the Project in Visual Studio (or your preferred C++ IDE).
@@ -35,6 +37,7 @@ Unicast: Send a direct message to another online user.
 Broadcast: Send a message to all connected clients.
 View Online Users: See a list of currently connected and online users.
 Logout: Disconnect from the server.
+
 File Structure
 server.cpp: Contains the server-side logic for handling clients and managing messages.
 client.cpp: Contains the client-side code for connecting to the server and sending/receiving messages.
